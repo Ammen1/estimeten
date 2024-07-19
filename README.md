@@ -1,5 +1,7 @@
 # A2SV AI FOR AFRICA'S HACKATHON
 
+![Company Logo](A2SV-logo.png)
+
 ## Project: Predicting Diabetes and Estimating Insulin Dosage
 
 ### Objective
