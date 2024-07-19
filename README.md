@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file for your project:
-
-```markdown
 # A2SV AI FOR AFRICA'S HACKATHON
 
 ## Project: Predicting Diabetes and Estimating Insulin Dosage
@@ -37,57 +34,3 @@ Following the training phase with these datasets, we test our models by uploadin
    ```bash
    git clone git@github.com:Ammen1/estimeten.git
    cd estimeten
-   ```
-
-2. **Backend Setup**:
-   - Install dependencies:
-     ```bash
-     pip install -r requirements.txt
-     ```
-   - Set up the database:
-     ```bash
-     python manage.py migrate
-     ```
-
-3. **Frontend Setup**:
-   - Navigate to the frontend directory:
-     ```bash
-     cd frontend
-     ```
-   - Install dependencies:
-     ```bash
-     npm install
-     ```
-   - Install and set up Tailwind CSS:
-     ```bash
-     npm install -D tailwindcss postcss autoprefixer
-     npx tailwindcss init -p
-     ```
-   - Start the frontend development server:
-     ```bash
-     npm start
-     ```
-
-### Usage
-- Run the backend server:
-  ```bash
-  python manage.py runserver
-  ```
-- Access the frontend application at `http://localhost:3000`.
-
-### Contributing
-We welcome contributions from the community. Please fork the repository and submit pull requests.
-
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-### Acknowledgements
-This project was developed as part of the A2SV AI for Africa's Challenges Hackathon 2024.
-
----
-
-For any queries or further information, please contact Tamirat Guda.
-
-```
-
-This `README.md` provides an overview of the project, its objectives, key features, technology stack, methodology, installation instructions, usage guidelines, contribution details, and acknowledgments.
