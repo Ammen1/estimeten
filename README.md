@@ -38,9 +38,16 @@ Following the training phase with these datasets, we test our models by uploadin
    cd estimeten
 
 
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
+![Company Logo](a1.png)
+![Company Logo](a2.png)
+![Company Logo](a3.png)
+![Company Logo](a4.png)
+![Company Logo](a5.png)
+![Company Logo](a6.png)
+![Company Logo](a7.png)
+![Company Logo](a8.png)
+![Company Logo](a9.png)
+![Company Logo](a10.png)
+![Company Logo](a11.png)
+![Company Logo](a12.png)
+![Company Logo](a14.png)
