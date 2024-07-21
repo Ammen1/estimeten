@@ -1,8 +1,14 @@
 # A2SV AI FOR AFRICA'S HACKATHON
 
 ![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
 
-## Project: Predicting Diabetes and Estimating Insulin Dosage
+## Project: Estimenet
 
 ### Objective
 The primary aim of this project is to develop an AI-powered system that predicts diabetes and estimates the insulin dosage required for diagnosed diabetic patients. By leveraging machine learning techniques and comprehensive datasets, the project seeks to enhance diabetes management strategies.
