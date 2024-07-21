@@ -36,18 +36,20 @@ Following the training phase with these datasets, we test our models by uploadin
    ```bash
    git clone git@github.com:Ammen1/estimeten.git
    cd estimeten
+   
+Project Status
+This project is currently under development and is in its early stages. While some features are functional, there is still a lot of work to be done. We appreciate your interest and patience as we continue to improve and expand the capabilities of the system.
 
-
-![Company Logo](images/a.png)
-![Company Logo](images/a2.png)
-![Company Logo](images/a3.png)
-![Company Logo](images/a4.png)
-![Company Logo](images/a13.png)
-![Company Logo](images/a6.png)
-![Company Logo](images/a8.png)
-![Company Logo](images/a9.png)
-![Company Logo](images/a10.png)
-![Company Logo](images/a11.png)
-![Company Logo](images/a12.png)
-![Company Logo](images/a14.png)
-![Company Logo](images/a7.png)
+![Hero page](images/a.png)
+![Logo](images/a2.png)
+![Sevirce](images/a3.png)
+![Sevirce](images/a4.png)
+![Sevirce](images/a13.png)
+![About page](images/a6.png)
+![Sevirce](images/a8.png)
+![Sevirce](images/a9.png)
+![image](images/a10.png)
+![image](images/a11.png)
+![image](images/a12.png)
+![image](images/a14.png)
+![footer](images/a7.png)
