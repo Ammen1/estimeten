@@ -1,12 +1,6 @@
 # A2SV AI FOR AFRICA'S HACKATHON
 
 ![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
-![Company Logo](A2SV-logo.png)
 
 ## Project: Estimenet
 
@@ -42,3 +36,11 @@ Following the training phase with these datasets, we test our models by uploadin
    ```bash
    git clone git@github.com:Ammen1/estimeten.git
    cd estimeten
+
+
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
+![Company Logo](A2SV-logo.png)
